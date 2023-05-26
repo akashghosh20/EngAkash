@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "daisyui": "^2.46.1",
+    "react-router-dom": "^6.6.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
